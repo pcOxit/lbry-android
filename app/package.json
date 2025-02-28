@@ -11,7 +11,7 @@
         "lbryinc": "lbryio/lbryinc",
         "moment": "^2.22.1",
         "react": "16.2.0",
-        "react-native": "0.55.3",
+        "react-native": "0.78.0",
         "react-native-country-picker-modal": "^0.6.2",
         "react-native-exception-handler": "2.9.0",
         "react-native-fast-image": "^5.0.3",
